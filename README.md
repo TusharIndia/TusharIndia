@@ -32,15 +32,17 @@ Passionate about solving real-world challenges, I thrive on building platforms t
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=FDFDFE" />
   <img alt="EJS" src="https://img.shields.io/badge/EJS-8BC34A?style=flat-square&logo=ejs&logoColor=white" />
   <img alt="Pug" src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
   <img alt="Jinja" src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
 
   <!-- Backend -->
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
